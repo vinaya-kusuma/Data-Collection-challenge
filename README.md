@@ -9,4 +9,4 @@ part_1_mars_news.ipynb
 part_2_mars_weather.ipynb
 Mars_Weather.csv
 
-I have worked independently on this assignment.
+
